@@ -1,0 +1,4 @@
+[autorun]
+open=drive.txt
+icon=drive.ico
+labe;=MyCD

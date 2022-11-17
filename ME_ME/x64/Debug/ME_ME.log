@@ -1,0 +1,15 @@
+﻿  ME_ME.cpp
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(20,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\ME_ME.cpp(21,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\Drivesearch.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ernie\source\repos\ME_ME\Drivesearch.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ME_ME.vcxproj -> C:\Users\ernie\source\repos\ME_ME\x64\Debug\ME_ME.exe
